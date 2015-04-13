@@ -1,0 +1,21 @@
+projectMySQLId	url	ownerLogin/name	description	language	created_at	ext_ref_id	forked_from	deleted
+37	https://api.github.com/repos/angular/angular.js	angular/angular.js	 	JavaScript	2010-01-05 23:34:37	 	 	0
+55	https://api.github.com/repos/yui/yui3	yui/yui3	YUI 3.x Source Tree	JavaScript	2008-12-05 18:12:24	 	 	0
+202	https://api.github.com/repos/mozilla-b2g/gaia	mozilla-b2g/gaia	Gaia is a HTML5-based Phone UI for the Boot 2 Gecko Project	JavaScript	2011-09-02 23:38:46	 	 	0
+288	https://api.github.com/repos/mozilla/rust	mozilla/rust	a safe concurrent practical language	Rust	2010-06-16 18:39:03	 	 	1
+392	https://api.github.com/repos/adobe/brackets	adobe/brackets	An open source code editor for the web written in JavaScript HTML and CSS.	JavaScript	2011-12-07 20:14:40	 	 	0
+1142	https://api.github.com/repos/saltstack/salt	saltstack/salt	Central system and configuration manager 	Python	2011-02-20 19:16:56	 	 	0
+1334	https://api.github.com/repos/rails/rails	rails/rails	Ruby on Rails	Ruby	2008-04-11 00:19:47	 	 	0
+1654	https://api.github.com/repos/html5rocks/www.html5rocks.com	html5rocks/www.html5rocks.com	....a top-notch resource for web developers	JavaScript	2012-07-30 19:35:16	 	 	0
+1771	https://api.github.com/repos/NServiceBus/NServiceBus	NServiceBus/NServiceBus	The most popular open-source service bus for .NET	C#	2010-11-06 11:54:52	 	 	1
+2093	https://api.github.com/repos/fog/fog	fog/fog	The Ruby cloud services library.	Ruby	2009-05-18 05:14:04	 	 	0
+4095	https://api.github.com/repos/elasticsearch/elasticsearch	elasticsearch/elasticsearch	Open Source Distributed RESTful Search Engine	Java	2010-02-08 12:20:56	 	 	0
+4135	https://api.github.com/repos/scala/scala	scala/scala	The Scala programming language	Scala	2011-12-01 04:02:34	 	 	0
+6093	https://api.github.com/repos/JuliaLang/julia	JuliaLang/julia	The Julia Language a fresh approach to technical computing.	Julia	2011-04-21 05:01:50	 	 	0
+10408	https://api.github.com/repos/Khan/khan-exercises	Khan/khan-exercises	A framework for building exercises to work with Khan Academy.	JavaScript	2011-05-09 13:40:15	 	 	0
+12558	https://api.github.com/repos/lift/framework	lift/framework	Lift Framework	Scala	2011-01-26 12:25:28	 	 	0
+14915	https://api.github.com/repos/travis-ci/travis-ci	travis-ci/travis-ci	A distributed build system for the open source community.	Ruby	2011-02-28 05:30:40	 	 	0
+3214347	https://api.github.com/repos/dotcloud/docker	dotcloud/docker	Docker - the Linux container runtime	Go	2013-01-18 17:10:57	 	 	0
+3825551	https://api.github.com/repos/bundler/bundler	bundler/bundler	Manage your application s gem dependencies with less pain	Ruby	2010-01-25 23:46:38	 	 	0
+3929178	https://api.github.com/repos/edx/edx-platform	edx/edx-platform	the edX learning management system LMS and course authoring tool Studio	Python	2013-05-30 18:20:38	 	 	0
+5768596	https://api.github.com/repos/TryGhost/Ghost	TryGhost/Ghost	Just a blogging platform	JavaScript	2013-05-04 09:09:13	 	 	0
