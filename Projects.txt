@@ -1,0 +1,22 @@
+3 projects used for test/tuning:
+JuliaLang/julia
+edx/edx-platform
+html5rocks/www.html5rocks.com
+
+17 projects for final evaluation:
+rails/rails
+scala/scala
+adobe/brackets
+mozilla/rust
+mozilla-b2g/gaia
+angular/angular.js
+bundler/bundler
+lift/framework
+dotcloud/docker
+elasticsearch/elasticsearch
+fog/fog
+Khan/khan-exercises
+saltstack/salt
+travis-ci/travis-ci
+NServiceBus/NServiceBus
+TryGhost/Ghost and yui/yui3
