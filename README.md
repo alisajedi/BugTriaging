@@ -1,6 +1,7 @@
 # BugTriaging
 Bug Triaging with Stack Overflow data combined with Github data
 
+How to run the code:
 In order to run the program after forking and cloning the project on your local drive, open the project in Eclipse. Then open the "TriagingAlgorithm.java" in "src\bugTriaging" package. This is the class that runs the code, but before running, we need to set the paths. 
 If you look at the main() function at the end of this class, it is calling "triage2_basedOnMultipleCriteria()" function, sending some paths to it. This is the place you can set your own path and filenames. Currently, the paths are constants that are defined in "Constants.java" file. However, you need to change them to your desired paths.
 
