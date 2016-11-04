@@ -128,6 +128,10 @@ public static void copyNeededFieldsFromJSONIntoNewTSVFile(String inputPath, Stri
 				} //if (field....
 				else
 					if (field.matches(".*\\[\\].*")){
+						//This part is assuming that the labels is a JSON array like this: 
+							//"labels":[{"name":"..."}, {"name":"..."}, ...]
+						//So it won't work for a JSON array of Strings, like this: 
+							//"labels":["x", "y", ...]
 						fieldValue = "[";
 						JSONArray jsonArray = (JSONArray) jsonObject.get("labels");
 						Iterator<?> iterator = jsonArray.iterator();
